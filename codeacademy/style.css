@@ -436,6 +436,14 @@ background-color: rgb(126, 126, 226);;
 
 .listfooter >ul >li >a:hover{
   color: blueviolet;
+  
+}
+.leftfooter >.mobile{
+  width: 50%;
+}
+
+.leftfooter >.mobile>ul>li>a>img{
+  width:100%;
 }
 /*right footer*/
 .rightfooter{
